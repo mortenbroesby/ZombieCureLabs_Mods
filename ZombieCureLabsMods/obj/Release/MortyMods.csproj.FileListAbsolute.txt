@@ -1,0 +1,6 @@
+D:\ZCLMortyMods\ZombieCureLabsMods\Release\ModInfo.txt
+D:\ZCLMortyMods\ZombieCureLabsMods\Release\ZombieCureLabsMods.dll
+D:\ZCLMortyMods\ZombieCureLabsMods\ZombieCureLabsMods\obj\Release\ZombieCureLabsMods.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZCLMortyMods\ZombieCureLabsMods\ZombieCureLabsMods\obj\Release\ZombieCureLabsMods.csproj.CoreCompileInputs.cache
+D:\ZCLMortyMods\ZombieCureLabsMods\ZombieCureLabsMods\obj\Release\ZombieCureLabsMods.dll
+D:\ZCLMortyMods\ZombieCureLabsMods\ZombieCureLabsMods\obj\Release\ZombieCureLabsMods.csproj.AssemblyReference.cache

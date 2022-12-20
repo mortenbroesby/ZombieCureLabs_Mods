@@ -1,0 +1,44 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ZCLMortyMods\\MortyMods\\MortyMods\\MortyMods.csproj": {}
+  },
+  "projects": {
+    "D:\\ZCLMortyMods\\MortyMods\\MortyMods\\MortyMods.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ZCLMortyMods\\ZombieCureLabsMods\\MortyMZombieCureLabsModsods\\ZombieCureLabsMods.csproj",
+        "projectName": "ZombieCureLabsMods",
+        "projectPath": "D:\\ZCLMortyMods\\ZombieCureLabsMods\\ZombieCureLabsMods\\ZombieCureLabsMods.csproj",
+        "packagesPath": "C:\\Users\\Xtreme\\.nuget\\packages\\",
+        "outputPath": "D:\\ZCLMortyMods\\ZombieCureLabsMods\\ZombieCureLabsMods\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\Xtreme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": ["net462"],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": ["NU1605"]
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
