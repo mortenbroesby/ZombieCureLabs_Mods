@@ -1,3 +1,8 @@
+This mod is currently made purely to adjust a few things I want done differently in the game Zombie Cure Labs.
+
+Changelog:
+- Adjusted DayPresenceAwareness to not have any effect. This means you can play as long as you want, without the difficulty increasing per day.
+
 ---
 Open Source Instructions for Mod Creator:
 ---
